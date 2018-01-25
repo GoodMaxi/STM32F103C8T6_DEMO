@@ -1,33 +1,7 @@
-ÊµÑéÆ÷²Ä:
-	MiniSTM32F103¿ª·¢°åV3°æ±¾
+å®žéªŒå™¨æ:
+	STM32F103C8T6å¼€å‘æ¿
 	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°´®¿ÚµÄÊ¹ÓÃ(½ÓÊÕÓë·¢ËÍ)
+å®žéªŒç›®çš„:
+	å­¦ä¹ ä¸²å£çš„ä½¿ç”¨(æŽ¥æ”¶ä¸Žå‘é€)
 	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPA8) 
-	2,°´¼üKEY0(PC5)/KEY1(PA15)/KEY_UP(PA0,Ò²³ÆÖ®ÎªWK_UP)
-	
-ÊµÑéÏÖÏó:
-	±¾ÊµÑé,STM32Í¨¹ý´®¿Ú1ºÍÉÏÎ»»ú¶Ô»°£¬STM32ÔÚÊÕµ½ÉÏÎ»»ú·¢¹ýÀ´µÄ×Ö·û´®(ÒÔ»Ø³µ»»
-	ÐÐ½áÊø)ºó£¬	Ô­Ô­±¾±¾µÄ·µ»Ø¸øÉÏÎ»»ú¡£ÏÂÔØºó£¬DS0ÉÁË¸£¬ÌáÊ¾³ÌÐòÔÚÔËÐÐ£¬Í¬Ê±Ã¿
-	¸ôÒ»¶¨Ê±¼ä£¬Í¨¹ý´®¿Ú1Êä³öÒ»¶ÎÐÅÏ¢µ½µçÄÔ¡£ 
-	
-×¢ÒâÊÂÏî:
-	1,µçÄÔ¶Ë´®¿Úµ÷ÊÔÖúÊÖ²¨ÌØÂÊ±ØÐëÊÇ9600.
-	2,ÇëÊ¹ÓÃXCOM/SSCOM´®¿Úµ÷ÊÔÖúÊÖ,ÆäËû´®¿ÚÖúÊÖ¿ÉÄÜ¿ØÖÆDTR/RTSµ¼ÖÂMCU¸´Î»/³ÌÐò²»ÔËÐÐ
-	3,´®¿ÚÊäÈë×Ö·û´®ÒÔ»Ø³µ»»ÐÐ½áÊø.
-	4,ÇëÓÃUSBÏßÁ¬½ÓÔÚUSB_232,ÕÒµ½USB×ª´®¿Úºó²âÊÔ±¾Àý³Ì.
-	5,ÇëÈ·±£PA9/PA10Í¨¹ýÌøÏßÃ±Á¬½ÓÔÚRXD/TXDÉÏ.
-	 
- 
-					ÕýµãÔ­×Ó@ALIENTEK
-					2014-3-06
-					¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-					µç»°£º020-38271790
-					´«Õæ£º020-36773971
-					¹ºÂò£ºhttp://shop62103354.taobao.com
-					http://shop62057469.taobao.com
-					¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-					¼¼ÊõÂÛÌ³£ºwww.openedv.com
-              
+
